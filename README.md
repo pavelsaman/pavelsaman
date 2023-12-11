@@ -2,5 +2,6 @@
 
 - 👋 Hi, I’m @pavelsaman
 - 👀 I’m interested in testing
+- Here are some ways to see more about me or connect with me: https://pavelsaman.github.io/me/
 - You can read my blog here: https://samanpavel.medium.com/
-- If you want to get in touch, connect with me via LinkedIn: https://linkedin.com/in/pavelsaman
+- I'm active on LinkedIn: https://linkedin.com/in/pavelsaman
